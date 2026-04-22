@@ -68,6 +68,41 @@ The dashboard is designed for **business decision‑making**, **trend analysis**
 
 ---
 
-##  Folder Structure
+---
+
+## 🛠Tools & Technologies
+
+- **Power BI Desktop**  
+- **DAX** (for calculated measures)  
+- **Power Query** (for data shaping)  
+- **CSV Dataset**  
+- **Data Modeling** (Star schema approach)  
+
+---
+
+##  How to Use This Project
+
+1. Download the `.pbix` file from the **powerbi** folder  
+2. Open it in **Power BI Desktop**  
+3. Interact with slicers and visuals  
+4. Explore insights across brands, cities, and time periods  
+
+---
+
+##  Dashboard Preview
+
+(Add your screenshot here once uploaded)
+
+---
+
+##  Author  
+**Vishal Thakare**  
+Data Analyst | Power BI | Excel | SQL | Python  
+
+---
+
+##  If you like this project  
+Give the repository a ⭐ to support my work!
+
 
 
