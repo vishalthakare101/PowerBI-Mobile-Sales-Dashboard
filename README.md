@@ -67,7 +67,31 @@ The dashboard is designed for **business decision‑making**, **trend analysis**
 - Strong presence across India, Nepal, Bangladesh, Sri Lanka  
 
 ---
+---
 
+##  Folder Structure
+
+```
+PowerBI-Mobile-Sales-Dashboard/
+│
+├── data/
+│   └── mobile_sales_cleaned.csv
+│
+├── powerbi/
+│   └── Mobile_Sales_Dashboard.pbix
+│   └── dashboard_screenshot.png
+│
+├── analysis/
+│   └── powerbi_analysis.md
+│
+├── assets/
+│   └── visuals/
+│       └── map_view.png
+│       └── ratings_chart.png
+│       └── model_sales_chart.png
+│
+└── README.md
+```
 ---
 
 ## 🛠Tools & Technologies
